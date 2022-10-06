@@ -23,8 +23,9 @@ Secondary Components:
 -> 40x7mm Wheels + Pololu Ball Caster with 3/4" Plastic Ball
 ____________________________________________________________________________________
 
-"tivaware_c_series_2_1_4_178" File Folder includes all subfunctions called 
-throughout the program.
+"Include_Files" File Folder includes all subfunctions called 
+throughout the program. All files in here are provided by Texas Instruments and
+can be found here: 
 
 "Demo" Folder Contains Videos of Each Demonstration
 
