@@ -23,12 +23,6 @@ Secondary Components:
 -> 40x7mm Wheels + Pololu Ball Caster with 3/4" Plastic Ball
 ____________________________________________________________________________________
 
-"Include_Files" File Folder includes all subfunctions called 
-throughout the program. All files in here are provided by Texas Instruments and
-can be found here: 
-
-"Demo" Folder Contains Videos of Each Demonstration
-
 "Milestone - ___" File Folders are all current Programs. These programs are focused 
 on Milestone Objectives per the Assignment.
 	Refer to "empty.c" file to See the Program. 
